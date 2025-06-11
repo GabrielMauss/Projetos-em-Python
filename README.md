@@ -1,2 +1,2 @@
-# pequenos-projetos
-Projetos feitos por mim para aprendizagem e diversão em python com interface gráfica.
+# Projetos em Python
+Pequenos projetos em python para a aprendizagem e conhecimento da linguagem de programação.
