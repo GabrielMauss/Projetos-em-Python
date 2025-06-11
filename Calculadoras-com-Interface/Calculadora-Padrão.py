@@ -1,3 +1,5 @@
+#Calculadora Padrão com as funcionalidades simples de adição, subtração, multiplicação, divisão entre outras, que são presentes em calculadores normais.
+
 import tkinter as tk
 from tkinter import messagebox
 import math
