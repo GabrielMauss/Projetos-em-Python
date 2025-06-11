@@ -1,3 +1,5 @@
+#Um aplicativo simples de previsão de tempo com interface grafica diretamente conectada com o site OpenWeatherMap.
+
 import sys
 import json
 import requests
